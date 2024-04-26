@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import {Igor} from "./Igor";
 import {Sasha} from "./Sasha";
+import {NewSasha} from "./NewSasha";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <div>26.04.2024-7:26-MASTER</div>
         <Igor/>
         <Sasha/>
+        <NewSasha/>
     </div>
   );
 }
