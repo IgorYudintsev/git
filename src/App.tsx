@@ -4,6 +4,7 @@ import './App.css';
 import {Igor} from "./Igor";
 import {Sasha} from "./Sasha";
 import {NewSasha} from "./NewSasha";
+import {NewNewSasha} from "./NewNewSasha";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Igor/>
         <Sasha/>
         <NewSasha/>
+        <NewNewSasha/>
     </div>
   );
 }
